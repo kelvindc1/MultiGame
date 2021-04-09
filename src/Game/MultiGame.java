@@ -6,8 +6,6 @@ import java.net.SocketException;
 
 public class MultiGame {
 
-    
-   // teste
    private static final int MAX_PAUSA = 1000;
    private static final int MAX_COL = 10;
    private static final int MAX_LIN = 10;
